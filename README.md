@@ -10,4 +10,8 @@ Screenshot Jalannya Program:
 
 
 Penjelasan Singkat:
-Pada tahap pertama, akan di-import plotting library dari python yaitu matplotlib serta numpy dengan tujuan untuk menampilkan hasil grafik fungsinya. Kemudian,
+  1. Pada tahap pertama, akan di-import plotting library dari python yaitu matplotlib serta numpy dengan      tujuan untuk menampilkan hasil grafik fungsi saat program dijalankan.
+  2. Kami membuat 2 fungsi yang dinamakan function dan midPoint. Fungsi function disini bertujuan untuk menghitung hasil akhir ketika nilai x disubstitusikan ke dalam fungsi. Sementara, fungsi midPoint berfungsi untuk menghitung titik tengah (x3).
+  3. Kemudian, program akan meminta input x1, x2, dan jumlah iterasi kepada pengguna. Jika x1 lebih dari x2, maka posisi mereka akan ditukar.
+  4. Nilai-nilai koordinat x akan disimpan pada xPrint dengan rentang x1 - x2 dengan beda 0.1, kemudian hasil substitusi (f(x)) akan disimpan pada yPrint sebagai koordinat y.
+  5. 
