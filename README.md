@@ -10,3 +10,4 @@ Screenshot Jalannya Program:
 
 
 Penjelasan Singkat:
+Pada tahap pertama, akan di-import plotting library dari python yaitu matplotlib serta numpy dengan tujuan untuk menampilkan hasil grafik fungsinya. Kemudian,
