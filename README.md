@@ -6,6 +6,7 @@ Anggota Kelompok 5 :
   3. Muhammad Rafi Sutrisno, 5025211167
 
 Screenshot Jalannya Program:
-![image](https://user-images.githubusercontent.com/99827242/197973080-f7c20aeb-b46a-47c2-8ce0-4a31615ed366.png)
+![image](https://user-images.githubusercontent.com/99827242/197975542-2fec3a1c-f8b0-4007-bbf2-fea02a0df2f1.png)
+
 
 Penjelasan Singkat:
